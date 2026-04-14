@@ -1,0 +1,40 @@
+{
+    "teams": [
+        {
+            "team_id": 1,
+            "team_name": "Warriors",
+            "city": "San Francisco",
+            "players": [
+                {
+                    "name": "Stephen Curry",
+                    "position": "PG",
+                    "points_per_game": 29.4
+                },
+                {
+                    "name": "Klay Thompson",
+                    "position": "SG",
+                    "points_per_game": 21.6
+                }
+            ]
+        },
+        {
+            "team_id": 2,
+            "team_name": "Lakers",
+            "city": "Los Angeles",
+            "players": [
+                {
+                    "name": "LeBron James",
+                    "position": "SF",
+                    "points_per_game": 27.2
+                },
+                {
+                    "name": "Anthony Davis",
+                    "position": "PF",
+                    "points_per_game": 24.8
+                }
+            ]
+        }
+    ],
+    "league": "NBA",
+    "season": "2025-2026"
+}
